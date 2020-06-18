@@ -1,3 +1,4 @@
 Teste
 Ententendo o HEAD
 Está linha foi inserida no ramo Master
+Esta linha foi incluída no ramo teste
